@@ -300,3 +300,5 @@ __pycache__/
 
 # OpenCover UI analysis results
 OpenCover/
+/hello-world/.vs/hello-world/v15/sqlite3/storage.ide
+/hello-world/.vs/hello-world/v15/.suo
